@@ -579,7 +579,7 @@ example: Lucy，rd1d3
 
 > Lucy，arc bind 
 
-进行绑定
+进行绑定 用户名或玩家id
 
 > Lucy，arc unbind 
 
@@ -609,9 +609,11 @@ example: Lucy，rd1d3
 
 随机指定难度的歌曲
 
-> Lucy，arc random [难度min] [难度max]
+> Lucy，arc random [难度]
 
 随机指定难度区间的歌曲
+
+> Lucy，arc preview <曲名> [难度]
 
 ## Thanks
 
