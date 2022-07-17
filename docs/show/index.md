@@ -28,7 +28,7 @@ Lucy酱
 @Lucy 抱住
 @Lucy 举高高
 @Lucy MoYoez/MoeMagicMango
-@Lucy 加群/邀请
+@Lucy 女友
 ```
 
 ```
@@ -73,10 +73,8 @@ Lucy酱
 喵/喵喵/喵喵喵
 呜呜
 咕咕
-小鱼干
 ?
 草
-哈哈哈
 离谱
 呜呜/呜呜呜
 我要(*)份涩图
