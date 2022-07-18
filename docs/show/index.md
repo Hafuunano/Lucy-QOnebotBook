@@ -250,6 +250,12 @@ R || VB || Py2 || Perl || Pascal || Scala
 
 > xx疫情
 
+## 热点信息
+
+> 微博热搜
+
+> github热搜
+
 ### b站查成分
 
 > 查成分 username
@@ -320,6 +326,10 @@ R || VB || Py2 || Perl || Pascal || Scala
 
 > @Lucy 一言
 
+## 反馈功能
+
+> @Lucy 给主人留话 xxx
+
 ## 娱乐功能
 
 ### 基于 API 的一部分功能
@@ -339,6 +349,16 @@ R || VB || Py2 || Perl || Pascal || Scala
 > 今日小可爱
 
 > 点歌 xxx
+
+## 猜歌
+
+> 个人猜歌 | 团队猜歌
+
+## 明日方舟工具箱
+
+> 查公招
+
+> 方舟资源
 
 ## 恶趣味
 
