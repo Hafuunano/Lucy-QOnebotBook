@@ -28,7 +28,7 @@ Lucy酱
 @Lucy 抱住
 @Lucy 举高高
 @Lucy MoYoez/MoeMagicMango
-@Lucy 女友
+@Lucy 是笨蛋
 ```
 
 ```
