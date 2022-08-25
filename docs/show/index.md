@@ -6,9 +6,10 @@ description: Hi! NekoPachi!
 
 ## 回复
 
+> 支持自定义名称 | @Lucy 叫我 
+
 ```
 @Lucy 主人
-@Lucy 名字
 @Lucy 会什么
 @Lucy 教我
 @Lucy 老婆
@@ -67,8 +68,6 @@ Lucy酱
 > 让(宁宁|爱瑠|芳乃|茉子|丛雨|小春|七海)说xxx (需要日语)
 
 > @Lucy或者喊Lucy笨蛋的时候有一定概率w
-
-
 
 ### Action回复
 
@@ -256,6 +255,10 @@ R || VB || Py2 || Perl || Pascal || Scala
 ### 百度下
 
 > 百度下 xxx
+
+### 查看本群的精选
+
+> 抓取本群精华消息
 
 ### 早晚安~
 
