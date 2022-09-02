@@ -304,6 +304,24 @@ R || VB || Py2 || Perl || Pascal || Scala
 
 > @Lucy 一言
 
+### 群话痨排行榜
+
+> Lucy，群话痨排行榜
+
+> Lucy，今日群话痨排行榜
+
+> Lucy，昨日群话痨排行榜
+
+> Lucy，本周群话痨排行榜
+
+> Lucy，本月群话痨排行榜
+
+> Lucy，年度群话痨排行榜
+
+> Lucy，历史群话痨排行榜
+
+**以上都基于Lucy存在且未被封号 在2022年9月2日之后的信息为准**
+
 ## 反馈功能
 
 > @Lucy 给夹子留话 xxx
@@ -607,6 +625,8 @@ R || VB || Py2 || Perl || Pascal || Scala
 - Nonebot-plugin-petpet
 
 - Nonebot-plugin-minesweeper
+
+- Nonebot_plugin_dialectlist
 
 - Nonebot-plugin-roll
 
