@@ -354,9 +354,9 @@ R || VB || Py2 || Perl || Pascal || Scala
 
 ## 漂流瓶 (Beta)
 
-> @Lucy pick
+> @Lucy pick (随机抽取一条漂流瓶)
 
-> @Lucy throw
+> @Lucy throw xxx (支持图片文字 扔漂流瓶)
 
 ## 恶趣味
 
