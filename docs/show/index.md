@@ -157,19 +157,6 @@ Lucy
 
 >Lucy，今日词云 | 昨日词云 | 本周词云 | 本月词云 | 年度词云 | 历史词云 | 我的今日词云
 
-### 在线执行代码
-
-> ">runcode [language]"
-
-支持语种: 
-Go || Python || C/C++ || C# || Java || Lua 
-
-JavaScript || TypeScript || PHP || Shell 
-
-Kotlin  || Rust || Erlang || Ruby || Swift 
-
-R || VB || Py2 || Perl || Pascal || Scala
-
 ### 群管
 
 **提示: \[@xxx] 这个是不需要打空格的 需要Lucy为管理**
