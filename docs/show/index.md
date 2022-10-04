@@ -523,7 +523,7 @@ Lucy
 
 请按照这个执行
 
-![](https://s2.loli.net/2022/05/11/6BSiDuAft7o3k5U.jpg)
+![](https://tva1.sinaimg.cn/large/006pBvLrly1h6t66p4awxj30r410hdkk.jpg)
 
 一并支持
 
