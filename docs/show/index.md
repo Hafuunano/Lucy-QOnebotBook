@@ -521,7 +521,7 @@ Lucy
 
 一并支持
 
-![](https://s2.loli.net/2022/01/19/KNnsQxOrFgouV6z.jpg)
+![](https://s2.loli.net/2022/06/14/wOLCQF8gxvm5lIc.jpg)
 
 ## 小游戏
 
