@@ -14,7 +14,7 @@ description: Hi! NekoPachi!
 
 基于源 ZeroBot-Plugin 修改而成的 Lucy，
 
-[Project](https://github.com/FloatTech/ZeroBot-Plugin) | [Lucy's SourceCode](https://github.com/ShizukuLostWorld/Lucy_ZeroBot)
+[Project](https://github.com/FloatTech/ZeroBot-Plugin) | [Lucy's SourceCode](https://github.com/moyoez/Lucy_ZeroBot)
 
 **Made By MoeMagicMango with ❤**
 
