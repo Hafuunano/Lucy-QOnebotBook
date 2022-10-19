@@ -3,8 +3,12 @@ lang: zh-CN
 title: 🌈Welcome~ \_(:з」∠)_
 description: Hi! NekoPachi!
 ---
+![](https://tvax3.sinaimg.cn/large/ec43126fgy1gvuakr2iwhj21hc0u0qfk.jpg)
+
+
+
 ![](https://img.shields.io/badge/HiMoYo-Lucy-blue)     ![](https://img.shields.io/badge/LICENSE-GPL3.0-brightgreen)   ![](https://img.shields.io/badge/Server-AliYun-yellowgreen)  ![](https://img.shields.io/badge/FrameWork-OneBot-blue)
-[![CodeFactor](https://www.codefactor.io/repository/github/moyoez/lucy_zerobot/badge)](https://www.codefactor.io/repository/github/himoyoez/hana_zerobot)
+[![CodeFactor](https://www.codefactor.io/repository/github/moyoez/lucy_zerobot/badge)](https://www.codefactor.io/repository/github/moyoez/lucy_zerobot)
 
 这边是夹子 这是一份关于 Lucy 的说明书
 
