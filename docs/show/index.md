@@ -521,7 +521,7 @@ Lucy
 
 请按照这个执行
 
-![](https://tva1.sinaimg.cn/large/006pBvLrly1h6t66p4awxj30r410hdkk.jpg)
+![](https://simg.himoyo.cn/large/006pBvLrly1h6t66p4awxj30r410hdkk.jpg)
 
 一并支持
 
