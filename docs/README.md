@@ -3,7 +3,7 @@ lang: zh-CN
 title: 🌈Welcome~ \_(:з」∠)_
 description: Hi! NekoPachi!
 ---
-![](https://tvax3.sinaimg.cn/large/ec43126fgy1gvuakr2iwhj21hc0u0qfk.jpg)
+![](https://simg.himoyo.cn/large/ec43126fgy1gvuakr2iwhj21hc0u0qfk.jpg)
 
 
 
