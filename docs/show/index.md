@@ -265,21 +265,12 @@ Lucy
 
 ### 运势
 
-> !今日运势/抽签/运势
+> 抽签/运势
 
-抽签
+> 设置底图xxx
 
-> !设置xx签 
+> "DC4", "星空列车", "樱云之恋", "富婆妹", "公主连结", "原神", "明日方舟", "碧蓝航线", "碧蓝幻想", "阴阳师", "赛马娘", "东方归言录", "奇异恩典", "夏日口袋"
 
-设置群抽签主题
-
-> !主题列表 
-
-查看可选的抽签主题
-
-> !抽签设置
-
-查看群抽签主题
 
 ### 随机一言
 
@@ -619,7 +610,7 @@ Lucy
 
 - Nonebot-plugin-minesweeper
 
-- Nonebot_plugin_dialectlist
+- Nonebot_plugin-dialectlist
 
 - Nonebot-plugin-roll
 
