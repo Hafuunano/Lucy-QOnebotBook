@@ -6,7 +6,7 @@ description: Hi! NekoPachi!
 
 ## 回复
 
-> 支持自定义名称 | @Lucy 叫我 xxx
+> 支持自定义名称 | @Lucy 叫我xxx
 
 ```
 @Lucy 主人
@@ -271,7 +271,6 @@ Lucy
 
 > "DC4", "星空列车", "樱云之恋", "富婆妹", "公主连结", "原神", "明日方舟", "碧蓝航线", "碧蓝幻想", "阴阳师", "赛马娘", "东方归言录", "奇异恩典", "夏日口袋"
 
-
 ### 随机一言
 
 > @Lucy 一言
@@ -332,11 +331,7 @@ Lucy
 
 > @Lucy throw xxx (支持图片文字 扔漂流瓶) (十字以上x)
 
-## WebCatcher (Beta)
-
-> !catch url
-
-## 恶趣味
+## 恶趣味 （502 Bad GateWay）
 
 > \00. 龙世界
 >
@@ -514,7 +509,7 @@ Lucy
 
 请按照这个执行
 
-![](https://simg.himoyo.cn/large/006pBvLrly1h6t66p4awxj30r410hdkk.jpg)
+![](https://pic.moehu.org/large/006pBvLrly1h6t66p4awxj30r410hdkk.jpg)
 
 一并支持
 
@@ -632,7 +627,7 @@ Lucy
 
 - Nonebot-plugin-wordcloud
 
-- Zerobot-Plugin 项目
+- Zerobot-Plugin
 
 
 
