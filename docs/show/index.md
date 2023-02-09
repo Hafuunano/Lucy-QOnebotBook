@@ -11,18 +11,14 @@ description: Hi! NekoPachi!
 ```
 @Lucy 主人
 @Lucy 会什么
-@Lucy 教我
 @Lucy 老婆
-@Lucy 人设
 @Lucy 抱住
-@Lucy 憨憨
 ```
 
 ```
 @Lucy 捏脸
 @Lucy 摸头
 Lucy酱
-@Lucy 使用方法
 @Lucy 摸摸
 @Lucy 抱住
 @Lucy 举高高
@@ -73,7 +69,6 @@ Lucy酱
 呜呜/呜呜呜
 我要(*)份涩图
 ```
-
 > 设定上是 10分钟触发15次
 
 ## 互动
@@ -87,11 +82,10 @@ Lucy
 群温度
 设置温度[正整数]
 ```
+**这一部分涉及到 Lucy 是否拥有群管理x**
 
 >* @Lucy 打我
 >* @Lucy 敲我
-
-**这一部分涉及到 Lucy 是否拥有群管理x**
 
 ## 一些好看的(?)图片(\*\/ω＼*)
 
@@ -119,9 +113,9 @@ Lucy
 
 >* 签到 | 柠檬片总数 (Score)
 
->* Lucy，今日运势/抽签/运势
+>* !今日运势/抽签/运势
 
->* Lucy，早安/晚安
+>* !早安/晚安
 
 >* 抽老婆
 
@@ -287,7 +281,7 @@ Lucy
 
 > !历史群话痨排行榜
 
-**以上都基于Lucy存在且未被封号 在2022年6月31日之后的信息为准**
+**以上都基于Lucy存在且未被封号 在2023年1月31日之后的信息为准**
 
 ## 反馈功能
 
@@ -327,7 +321,7 @@ Lucy
 
 > @Lucy throw xxx (支持图片文字 扔漂流瓶) (十字以上x)
 
-## 恶趣味 （502 Bad GateWay）
+## 恶趣味
 
 > \00. 龙世界
 >
@@ -505,13 +499,11 @@ Lucy
 
 请按照这个执行
 
-![](https://pic.moehu.org/large/006pBvLrly1h6t66p4awxj30r410hdkk.jpg)
+![](https://cdn.himoyo.cn/uploads/68747470733a2f2f73322e6c6f6c692e6e65742f323032332f30312f32382f7757465672516832546d755237644f2e6a7067.jpg)
 
 一并支持
 
-![](https://s2.loli.net/2022/06/14/wOLCQF8gxvm5lIc.jpg)
-
-看运气 我这边好久没维护了
+![](https://cdn.himoyo.cn/uploads/68747470733a2f2f73322e6c6f6c692e6e65742f323032322f31312f32392f34393650414d6232354767547579712e6a7067.jpg)
 
 ## 小游戏
 
@@ -529,8 +521,6 @@ Lucy
 
 ### 扫雷
 
-是wq大佬写的插件
-
 > !扫雷 / 扫雷初级 / 扫雷中级 / 扫雷高级
 
 开始游戏
@@ -546,8 +536,6 @@ Lucy
 来标记方块，可同时指定多个位置；
 
 位置为 字母+数字 的组合，如“A1”
-
-项目名称: nonebot-plugin-minesweeper
 
 ### 疯狂星期四
 
@@ -605,15 +593,11 @@ Lucy
 
 - Nonebot_plugin-dialectlist
 
-- Nonebot-plugin-roll
-
 - Nonebot-plugin-morning
 
 - Nonebot-plugin-crazy-thursday
 
 - Nonebot-plugin-arcaeabot
-
-- Nonebot-plugin-fortune
 
 - Nonebot-plugin-meme
 
@@ -626,7 +610,5 @@ Lucy
 - Nonebot-plugin-wordcloud
 
 - Zerobot-Plugin
-
-
 
 **[Drop Back!](/)**
