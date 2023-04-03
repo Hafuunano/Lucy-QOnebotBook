@@ -267,6 +267,10 @@ PS ： 涩图一次性兑换需要200coins | 同时需要打开 nsfw 功能 /启
 
 查询指定用户的 Arcaea b30 (仅支持账户码)
 
+> !test arc chart name diff
+
+查询某首歌的俯视图 (Lagrange Support.)
+
 > !test arc randgpt 
 
 最新最热？的ArcGPT ！
