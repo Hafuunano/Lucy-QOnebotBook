@@ -253,6 +253,18 @@ PS ： 涩图一次性兑换需要200coins | 同时需要打开 nsfw 功能 /启
 
 **这边都是夹子目前尝试写的一些东西哦！不保证稳定性和后期他的质量变化**
 
+### ChatGPT
+
+> @Lucy /chat xxx
+
+开启对话
+
+> @Lucy /chat reset
+
+清理记忆
+
+此项目位 Playground 上，不保证后期稳定性。
+
 ### Arcaea 查分(Lucy.ver Go)
 
 > !test arc bind xxx 
