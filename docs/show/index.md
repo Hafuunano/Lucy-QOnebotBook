@@ -263,7 +263,7 @@ PS ： 涩图一次性兑换需要200coins | 同时需要打开 nsfw 功能 /启
 
 清理记忆
 
-此项目位 Playground 上，不保证后期稳定性。
+此项目来源为 Playground 上，不保证后期稳定性。
 
 ### Arcaea 查分(Lucy.ver Go)
 
@@ -274,6 +274,10 @@ PS ： 涩图一次性兑换需要200coins | 同时需要打开 nsfw 功能 /启
 > !test arc b30
 
 查询您的 Arcaea 账户 B30 (需要在Lucy端进行绑定)
+
+> !test arc
+
+查询最近一首歌的情况 Andreal V2 Style 复刻
 
 > !test arc xxx
 
