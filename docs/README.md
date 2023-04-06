@@ -14,6 +14,7 @@ Hi! ~这是一份关于 Lucy 的说明书
 
 **OneBot + Zerobot + Nonebot2 with ZeroBot-Plugin Project.**
 
+Lucy 的基础人设 : [Link](https://moe.himoyo.cn/archives/14/)
 
 基于 [Zerobot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) 定制的 三方 Bot 计划 Lucy.ver 做了些相关的定制和维护
 
