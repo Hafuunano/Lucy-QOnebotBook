@@ -129,6 +129,32 @@ Lucy
 
 PS ： 涩图一次性兑换需要200coins | 同时需要打开 nsfw 功能 /启用 nsfw
 
+### Arcaea 查分(Lucy.ver Go)
+
+> !arc bind xxx 
+
+绑定 Arcaea 账户
+
+> !arc b30
+
+查询您的 Arcaea 账户 B30 (需要在Lucy端进行绑定)
+
+> !arc
+
+查询最近一首歌的情况 Andreal V2 Style 复刻
+
+> !arc xxx
+
+查询指定用户的 Arcaea b30 (仅支持账户码)
+
+> !arc chart name diff
+
+查询某首歌的俯视图 (Lagrange Support.)
+
+> !arc randGPT
+
+最新最热？的ArcGPT ！
+
 ## Lucy实用功能
 
 ### 搜番
@@ -397,32 +423,6 @@ PS ： 涩图一次性兑换需要200coins | 同时需要打开 nsfw 功能 /启
 
 请注意 每一次的 预设生成都将会造成刷屏，请谨慎使用，有必要的话 可以直接禁用掉 /禁用 chat
 
-### Arcaea 查分(Lucy.ver Go)
-
-> !test arc bind xxx 
-
-绑定 Arcaea 账户
-
-> !test arc b30
-
-查询您的 Arcaea 账户 B30 (需要在Lucy端进行绑定)
-
-> !test arc
-
-查询最近一首歌的情况 Andreal V2 Style 复刻
-
-> !test arc xxx
-
-查询指定用户的 Arcaea b30 (仅支持账户码)
-
-> !test arc chart name diff
-
-查询某首歌的俯视图 (Lagrange Support.)
-
-> !test arc randGPT
-
-最新最热？的ArcGPT ！
-
 ## 娱乐功能
 
 ### 基于 API 的一部分功能
@@ -517,47 +517,6 @@ PS ： 目前可以使用 娶Lucy 来实现娶bot功能x
 
 > 狂乱[月|火|水|木|金|土|日]
 
-
-### Arcaea查分(Arcaeabot)
-
-> !arc bind 
-
-进行绑定 用户名或玩家id
-
-> !arc unbind 
-
-解除绑定
-
-> !arc info 
-
-查看绑定信息
-
-> !arc recent 
-
-查询上一次游玩记录
-
-> !arc b30 
-
-查询 best 30 记录
-
-> !arc best <曲名> [难度]
-
-查询单曲最高分
-
-> !arc song <曲名> [难度]
-
-查询信息
-
-> !arc random [难度]
-
-随机指定难度的歌曲
-
-> !arc random [难度]
-
-随机指定难度区间的歌曲
-
-> !arc preview <曲名> [难度]
-
 ## Thanks
 
 **目前Lucy的运营使用了以下开源项目支持**
@@ -571,8 +530,6 @@ PS ： 目前可以使用 娶Lucy 来实现娶bot功能x
 - Nonebot-plugin-morning
 
 - Nonebot-plugin-crazy-thursday
-
-- Nonebot-plugin-arcaeabot
 
 - Nonebot-plugin-meme
 
