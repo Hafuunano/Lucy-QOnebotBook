@@ -155,6 +155,10 @@ PS ： 涩图一次性兑换需要200coins | 同时需要打开 nsfw 功能 /启
 
 最新最热？的ArcGPT ！
 
+> !arc rank [paid|free]
+
+查询目前 Arcaea 官网上歌曲热度.
+
 ## Lucy实用功能
 
 ### 搜番
