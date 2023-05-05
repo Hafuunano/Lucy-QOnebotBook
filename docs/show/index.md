@@ -127,7 +127,7 @@ Lucy
 
 > - 兑换涩图
 
-PS ： 涩图一次性兑换需要200coins | 同时需要打开 nsfw 功能 /启用 nsfw
+PS ： 涩图一次性兑换需要400coins | 同时需要打开 nsfw 功能 /启用 nsfw
 
 ### Arcaea 查分(Lucy.ver Go)
 
@@ -159,6 +159,12 @@ PS ： 涩图一次性兑换需要200coins | 同时需要打开 nsfw 功能 /启
 
 查询目前 Arcaea 官网上歌曲热度.
 
+## Maimai (HARDCORE MODE)
+
+> !mai
+
+非常硬核的MaiMai B50 成绩渲染 (
+    
 ## Lucy实用功能
 
 ### 搜番
