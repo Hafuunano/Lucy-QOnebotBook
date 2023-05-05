@@ -151,6 +151,10 @@ PS ： 涩图一次性兑换需要400coins | 同时需要打开 nsfw 功能 /启
 
 查询某首歌的俯视图 (Lagrange Support.)
 
+> !arc best song diff
+
+查询某首歌指定难度的Best成绩
+
 > !arc randGPT
 
 最新最热？的ArcGPT ！
