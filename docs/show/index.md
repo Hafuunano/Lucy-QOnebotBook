@@ -307,7 +307,7 @@ PS ： 涩图一次性兑换需要400coins | 同时需要打开 nsfw 功能 /启
 
 使用ChatGPT预设 (来源于 awesome-chatgpt-prompts )
 
-> !test chatgpt act xxx
+> !chatgpt act xxx
 
 目前支持以下预设，每次预设都将会清除一次记忆，每个人的记忆内容各不相同，请注意使用x
 
