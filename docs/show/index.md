@@ -505,10 +505,6 @@ PS ： 目前可以使用 娶Lucy 来实现娶bot功能x
 
 > reborn | 我要重生 | 我要重开
 
-### wordle猜单词
-
-> (个人|团队)(五阶|六阶|七阶)猜单词
-
 ### 人生重开模拟器 ()
 
 > @Lucy !remake/liferestart/人生重开/人生重来
