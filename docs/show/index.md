@@ -287,7 +287,7 @@ PS ： 涩图一次性兑换需要400coins | 同时需要打开 nsfw 功能 /启
 
 ## 反馈功能
 
-> @Lucy 给夹子留话 xxx
+> 给夹子留话 xxx
 
 ## Beta Lab
 
