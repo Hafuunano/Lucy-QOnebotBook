@@ -41,3 +41,11 @@ Lucy 的基础人设 : [Link](https://moe.himoyo.cn/archives/14/)
 [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh\_CN.md)
 
 **这边可以查看 关于Lucy的说明书QWQ [Drop Here!](/show)**
+
+---
+
+## Sponsor
+
+Thanks! 感谢支持
+
+![](https://cdn.himoyo.cn/supoorter/Screenshot%202023-06-04%20220723.png)
