@@ -146,7 +146,7 @@
     "upath": "^2.0.1",
     "update-browserslist-db": "^1.0.4",
     "util-deprecate": "^1.0.2",
-    "vite": "^2.9.14",
+    "vite": "^2.9.16",
     "vue": "^3.2.37",
     "vue-demi": "^0.13.4",
     "vue-router": "^4.1.2",
