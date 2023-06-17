@@ -174,11 +174,11 @@ PS ： 涩图一次性兑换需要400coins | 同时需要打开 nsfw 功能 /启
 
 ## Phigros
 
-> /pgr bind xxx
+> !pgr bind xxx
 
 **此功能需要在 " https://pgr.impart.icu  " 上获得绑定码**
 
-> /pgr b19
+> !pgr b19
 
 返回你的 Phigros B19+1 数据 ( 数据来源于 Session 云存档 By TapTap )
     
