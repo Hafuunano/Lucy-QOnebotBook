@@ -70,6 +70,7 @@ Lucy
 群温度
 设置温度[正整数]
 ```
+
 **这一部分涉及到 Lucy 是否拥有群管理x**
 
 >* @Lucy 打我
@@ -120,9 +121,14 @@ Lucy
 
 > - 兑换涩图
 
+> - !coin wager |(奖池抽奖，参与一次50柠檬片)
+
 PS ： 涩图一次性兑换需要400coins | 同时需要打开 nsfw 功能 /启用 nsfw
 
 ### Arcaea 查分(Lucy.ver Go)
+
+> 目前同时支持/a | /arc | ！a | !arc 方法查询
+
 
 > !arc bind xxx 
 
@@ -144,9 +150,9 @@ PS ： 涩图一次性兑换需要400coins | 同时需要打开 nsfw 功能 /启
 
 查询某首歌的俯视图 (Lagrange Support.)
 
-> !arc best song diff
+~~> !arc best song diff~~
 
-查询某首歌指定难度的Best成绩
+~~查询某首歌指定难度的Best成绩~~
 
 > !arc randGPT
 
@@ -160,9 +166,13 @@ PS ： 涩图一次性兑换需要400coins | 同时需要打开 nsfw 功能 /启
 
 ### Maimai
 
-> !mai
+> !mai | !b50 | /b50 | /mai
 
-非常硬核的MaiMai B50 成绩渲染 （
+查询您的 MaiMai B50 并且渲染
+
+> !mai plate xxx | !b50 plate xxx 
+
+自定义您的 MaiMai 称号 ，支持使用 / 的命令初始头
 
 ### Chunithm
 
@@ -170,17 +180,23 @@ PS ： 涩图一次性兑换需要400coins | 同时需要打开 nsfw 功能 /启
 
 中二查分，也是非常硬核（
 
+非常硬核的中二 B50 成绩渲染 （
+
 - API From Diving Fish API
 
 ## Phigros
 
 > !pgr bind xxx
 
-**此功能需要在 " https://pgr.impart.icu  " 上获得绑定码**
+**此功能需要在 [Phigros Bind Site](https://pgr.impart.icu) 上获得绑定码**
 
 > !pgr b19
 
 返回你的 Phigros B19+1 数据 ( 数据来源于 Session 云存档 By TapTap )
+
+> !pgr roll [19-40]
+
+返回你的 Phigros 成绩数据 (B19向下查询，最多支持到40)
     
 ## Lucy实用功能
 
