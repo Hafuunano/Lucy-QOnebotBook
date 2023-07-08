@@ -174,6 +174,14 @@ PS ： 涩图一次性兑换需要400coins | 同时需要打开 nsfw 功能 /启
 
 自定义您的 MaiMai 称号 ，支持使用 / 的命令初始头
 
+> !mai upload | !b50 upload
+
+上传您的maimai 封面图
+
+> mai remove | !b50 remove
+
+移除封面图
+
 ### Chunithm
 
 > !chun
