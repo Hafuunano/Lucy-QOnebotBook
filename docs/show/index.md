@@ -125,10 +125,71 @@ Lucy
 
 PS ： 涩图一次性兑换需要400coins | 同时需要打开 nsfw 功能 /启用 nsfw
 
-### Arcaea 查分(Lucy.ver Go)
+### Slash Plugin
+
+模仿 [Telegram Bot Slash](https://github.com/Rongronggg9/SlashBot) 的 功能
+
+* 此功能需要管理员  /启用slash  才可使用
+
+Regex Patterns,没有特定需求，**会和其他以 / 为初始头的Bot冲突**:
+
+以下是示例:
+
+> /rua 
+
+=> {Username}rua了他自己~
+
+Ep: MoeMagicMango💫 rua了他自己~
+
+> /rua 顺便摸摸头
+
+=> {username}rua 顺便摸摸头了他自己~
+
+Ep.
+
+MoeMagicMango💫 rua 顺便摸摸头了他自己~
+
+> @Lucy | HafuKo💫 /rua
+
+* 因为正则影响相关，如果@Lucy的话可能会被Matcher的阻断器卡住不会回应
+
+> => {username} rua了 {targetName}
+
+Ep:
+
+=> MoeMagicMango💫 rua了 Lucy | HafuKo💫
+
+> /rua @Lucy | Hafuko 💫
+
+Ep:
+
+=> MoeMagicMango💫 rua了 Lucy | HafuKo💫
+
+> @Lucy | HafuKo💫 /rua 捏捏
+
+Ep:
+
+=> MoeMagicMango💫 rua了 Lucy | HafuKo💫捏捏
+
+>/rua 捏捏 @Lucy | HafuKo💫
+
+Ep:
+
+=> MoeMagicMango💫 rua了 Lucy | HafuKo💫捏捏
+
+#### 回复环境下 (在回复某个人的对话，记得去掉qq自带的@)
+
+>  /rua
+
+=> {username} rua了 {targetName}
+
+Ep:
+
+=> MoeMagicMango💫 rua了 Lucy | HafuKo💫
+
+### Arcaea 查分(Lucy.ver Go) (Beta)
 
 > 目前同时支持/a | /arc | ！a | !arc 方法查询
-
 
 > !arc bind xxx 
 
@@ -150,6 +211,7 @@ PS ： 涩图一次性兑换需要400coins | 同时需要打开 nsfw 功能 /启
 
 查询某首歌的俯视图 (Lagrange Support.)
 
+TODO
 ~~> !arc best song diff~~
 
 ~~查询某首歌指定难度的Best成绩~~
