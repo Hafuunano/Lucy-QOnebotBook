@@ -3,22 +3,18 @@ lang: zh-CN
 title: 🌈Welcome~ \_(:з」∠)_
 description: Hi! NekoPachi!
 ---
-![](https://cdn.himoyo.cn/img_service/006pBvLrly1h6r5sgn7kfj325s1e01kx.jpg)
+![](https://cdn.himoyo.cn/img_service/{ED475BD2-252D-57C7-2E87-FD34559A4985}.png)
 
 
 
-![](https://img.shields.io/badge/HiMoYo-Lucy-blue)     ![](https://img.shields.io/badge/LICENSE-GPL3.0-brightgreen)   ![](https://img.shields.io/badge/Server-TencentCloud-yellowgreen)  ![](https://img.shields.io/badge/FrameWork-OneBot-blue)
-[![CodeFactor](https://www.codefactor.io/repository/github/moyoez/lucy_zerobot/badge)](https://www.codefactor.io/repository/github/moyoez/lucy_zerobot)
+![](https://img.shields.io/badge/HiMoYo-Lucy-aqua)     ![](https://img.shields.io/badge/LICENSE-GPL3.0-brightgreen)   ![](https://img.shields.io/badge/Server-TencentCloud-pink)  ![](https://img.shields.io/badge/FrameWork-OneBot-blue)
+[![CodeFactor](https://www.codefactor.io/repository/github/moyoez/lucy_zerobot/badge/dev)](https://www.codefactor.io/repository/github/moyoez/lucy_zerobot/overview/dev)
 
 Hi! ~这是一份关于 Lucy 的说明书
-
-**OneBot + Zerobot + Nonebot2 with ZeroBot-Plugin Project.**
 
 Lucy 的基础人设 : [Link](https://moe.himoyo.cn/archives/14/)
 
 基于 [Zerobot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) 定制的 三方 Bot 计划 Lucy.ver 做了些相关的定制和维护
-
-对于原版有依赖文件缺少问题，代码部分参考了很多别家的代码设计,~~没有创新力了属于是~~
 
 [Project](https://github.com/FloatTech/ZeroBot-Plugin) | [Lucy's SourceCode](https://github.com/moyoez/Lucy_ZeroBot)
 
