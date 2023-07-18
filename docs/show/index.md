@@ -121,7 +121,9 @@ Lucy
 
 > - 兑换涩图
 
-> - !coin wager |(奖池抽奖，参与一次50柠檬片)
+> - !coin wager xxx
+
+| (奖池抽奖，可0-1000内柠檬片参与~xxx代表的指定数量，如没有则默认50)
 
 PS ： 涩图一次性兑换需要400coins | 同时需要打开 nsfw 功能 /启用 nsfw
 
@@ -140,14 +142,6 @@ Regex Patterns,没有特定需求，**会和其他以 / 为初始头的Bot冲突
 => {Username}rua了他自己~
 
 Ep: MoeMagicMango💫 rua了他自己~
-
-> /rua 顺便摸摸头
-
-=> {username}rua 顺便摸摸头了他自己~
-
-Ep.
-
-MoeMagicMango💫 rua 顺便摸摸头了他自己~
 
 > @Lucy | HafuKo💫 /rua
 
@@ -254,7 +248,7 @@ TODO
 
 - API From Diving Fish API
 
-## Phigros
+## Phigros (in maintain)
 
 > !pgr bind xxx
 
@@ -562,7 +556,7 @@ TODO
 
 > @Lucy throw xxx (支持图片文字 扔漂流瓶) (十字以上x)
 
-### 群老婆 (beta V0.1)
+### 群老婆 (beta V0.2)
 
 >* 娶群友 
 

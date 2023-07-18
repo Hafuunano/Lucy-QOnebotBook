@@ -18,6 +18,10 @@ Lucy 的基础人设 : [Link](https://moe.himoyo.cn/archives/14/)
 
 [Project](https://github.com/FloatTech/ZeroBot-Plugin) | [Lucy's SourceCode](https://github.com/moyoez/Lucy_ZeroBot)
 
+
+**说明书详情请走这边~ [Drop Here!](/show)**
+
+
 **Made By MoeMagicMango with ❤**
 
 **Copyright © 2021-2023 FloatTech. All Rights Reserved.**
@@ -35,8 +39,6 @@ Lucy 的基础人设 : [Link](https://moe.himoyo.cn/archives/14/)
 ---
 
 [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh\_CN.md)
-
-**这边可以查看 关于Lucy的说明书QWQ [Drop Here!](/show)**
 
 ---
 
