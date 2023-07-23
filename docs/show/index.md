@@ -201,14 +201,13 @@ Ep:
 
 查询指定用户的 Arcaea b30 (仅支持账户码)
 
-> !arc chart name diff
+> !arc preview name diff
 
 查询某首歌的俯视图 (Lagrange Support.)
 
-TODO
-~~> !arc best song diff~~
+> !arc info song diff
 
-~~查询某首歌指定难度的Best成绩~~
+查询某首歌指定难度的Best成绩，无难度默认ftr
 
 > !arc randGPT
 
