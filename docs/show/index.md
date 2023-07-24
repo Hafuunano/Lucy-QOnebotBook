@@ -181,7 +181,7 @@ Ep:
 
 => MoeMagicMango💫 rua了 Lucy | HafuKo💫
 
-### Arcaea 查分(Lucy.ver Go) (Beta)
+### Arcaea 查分(Lucy.ver Go) (V1)
 
 > 目前同时支持/a | /arc | ！a | !arc 方法查询
 
@@ -247,7 +247,10 @@ Ep:
 
 - API From Diving Fish API
 
-## Phigros (in maintain)
+## Phigros (Beta V1)
+
+* Data From Lucy's Phigros Data Handler.
+- [PhigrosFlaskAPIReference](https://github.com/MoYoez/PhigrosFlaskAPIReference)
 
 > !pgr bind xxx
 
