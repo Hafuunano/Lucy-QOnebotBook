@@ -185,42 +185,6 @@ Ep:
 
 => MoeMagicMango💫 rua了 Lucy | HafuKo💫
 
-### Arcaea 查分(Lucy.ver Go) (V1)
-
-> 目前同时支持/a | /arc | ！a | !arc 方法查询
-
-> !arc bind xxx 
-
-绑定 Arcaea 账户
-
-> !arc b30
-
-查询您的 Arcaea 账户 B30 (需要在Lucy端进行绑定)
-
-> !arc
-
-查询最近一首歌的情况 Andreal V2 Style 复刻
-
-> !arc xxx
-
-查询指定用户的 Arcaea b30 (仅支持账户码)
-
-> !arc preview name diff
-
-查询某首歌的俯视图 (Lagrange Support.)
-
-> !arc info song diff
-
-查询某首歌指定难度的Best成绩，无难度默认ftr
-
-> !arc randGPT
-
-最新最热？的ArcGPT ！
-
-> !arc rank [paid|free]
-
-查询目前 Arcaea 官网上歌曲热度.
-
 ## Diving Fish APi
 
 ### Maimai

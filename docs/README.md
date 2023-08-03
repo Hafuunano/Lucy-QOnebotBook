@@ -26,18 +26,6 @@ Lucy 的基础人设 : [Link](https://moe.himoyo.cn/archives/14/)
 
 **Copyright © 2021-2023 FloatTech. All Rights Reserved.**
 
----
-
-## 关于 Arcaea B30 设计
-
-本项目其中包含的 Arcaea 插件 数据来源于 ArcaeaUnlimitedAPI(AUA)
-
-其卡片风格来源于 ChieriBOT B30 设计，主体风格参照 [Nonebot-Plugin-Arcaeabot](https://github.com/SEAFHMC/nonebot-plugin-arcaeabot) 样式，后期可能会有所改动.
-
-其 背景(Background) 和 Header 设计来源于 [雨笙Hikari](https://space.bilibili.com/441390256)
-
----
-
 [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh\_CN.md)
 
 ---
