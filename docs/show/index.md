@@ -209,9 +209,7 @@ Ep:
 
 > !chun
 
-中二查分，也是非常硬核（
-
-非常硬核的中二 B50 成绩渲染 （
+中二查分,是非常硬核的中二 B50 成绩渲染
 
 - API From Diving Fish API
 
@@ -220,15 +218,15 @@ Ep:
 * Data From Lucy's Phigros Data Handler.
 - [PhigrosFlaskAPIReference](https://github.com/MoYoez/PhigrosFlaskAPIReference)
 
-> !pgr bind xxx
+> /pgr bind xxx
 
 **此功能需要在 [Phigros Bind Site](https://pgr.impart.icu) 上获得绑定码**
 
-> !pgr b19
+> /pgr b19
 
 返回你的 Phigros B19+1 数据 ( 数据来源于 Session 云存档 By TapTap )
 
-> !pgr roll [19-40]
+> /pgr roll [19-40]
 
 返回你的 Phigros 成绩数据 (B19向下查询，最多支持到40)
     
