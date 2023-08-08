@@ -4,9 +4,9 @@ title: Lucy's Mai Default Plate Index
 description: Hi! NekoPachi!
 ---
 
-## Maimai Default Bg Setting
+### Maimai Default Bg Setting
 
-## 这些是 Lucy 自带的 底图，根据底图尾数设定预设
+一部分预设图
 
 > !mai default plate xx
 
