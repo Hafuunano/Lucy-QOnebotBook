@@ -209,7 +209,7 @@ Ep:
 
 使用预设的maimai底图，底图部分查询此:
 
-[Mai Plate Default Index](./mai_plate/)
+[Mai Plate Default Index](/mai_plate)
 
 * 自定义图片优先度高，如果设置了自定义图片则需要优先关闭.
 
