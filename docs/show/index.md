@@ -205,7 +205,7 @@ Ep:
 
 移除封面图
 
-> !mai defaultbg xx
+> !mai default plate xx
 
 使用预设的maimai底图，底图部分查询此:
 
