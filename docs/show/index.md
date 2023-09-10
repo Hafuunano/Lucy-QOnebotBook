@@ -93,7 +93,7 @@ Lucy
 
 ## 每日刷新互动🌈
 
->* 签到 | 柠檬片总数 (Score) ( !!:30PM 刷新)
+>* 签到 | 柠檬片总数 (Score) ( 11:30PM 刷新)
 
 >* !早安/晚安
 
@@ -502,6 +502,15 @@ Ep:
 
 ## 娱乐功能
 
+### Make A Quote
+
+* From Telegram Bot [Kmua](https://github.com/krau/kmua-bot)
+
+> /quote
+
+* 在任意回复下使用quote，即记录这一条
+* 在无回复情况下使用这一条指令，则随机本群任意一条quote
+
 ### 基于 API 的一部分功能
 
 > 答案之书
@@ -543,6 +552,7 @@ Ep:
 tip: 如: 娶@Lucy Hafuko
 
 则将Lucy的名字绑定到Hafuko上 (仅自己有效)
+
 则下一次自己发送的时候 则可以使用 : 娶Hafuko 来指定用户而无需@对方
 
 当数据库存在相同名字的时候 最新的名字会把相同的名字覆盖掉
