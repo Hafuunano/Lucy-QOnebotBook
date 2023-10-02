@@ -35,8 +35,3 @@ Lucy 的基础人设 : [Link](https://moe.himoyo.cn/archives/14/)
 Thanks! 感谢支持
 
 ![](https://cdn.himoyo.cn/supoorter/Screenshot%202023-06-04%20220723.png)
-
-
-### 其他第三方(非爱发电)赞助收入
-
-- 2023.8.24 呁离 - 20r
