@@ -107,8 +107,6 @@ Lucy
 
 >* 抽老婆
 
->* 今天吃什么
-
 >* 今日本群RBQ
 
 >* 今日人品
@@ -137,7 +135,7 @@ Lucy
 
 > - !coin wager xxx
 
-| (奖池抽奖，可0-1000内柠檬片参与~xxx代表的指定数量，如没有则默认50)
+| (奖池抽奖，可0-1000内柠檬片参与~xxx代表的指定数量，如没有则默认60)
 
 PS ： 涩图一次性兑换需要400coins | 同时需要打开 nsfw 功能 /启用 nsfw
 
@@ -273,6 +271,10 @@ Ep:
 
 * 自定义图片优先度高，如果设置了自定义图片则需要优先关闭.
 
+> mai一首
+
+* 随机maimai一首歌（挨打
+
 ### Chunithm * 可能需要一个UI设计 (
 
 > !chun
@@ -289,7 +291,7 @@ Ep:
 
 **此功能需要在 [Phigros Bind Site](https://pgr.impart.icu) 上获得绑定码**
 
-> * Session 具有控制您账户的权限！请不要在公共部分绑定！
+> * Session 具有控制您账户的权限！未加密的情况下请不要在公共部分绑定！(Lucy为私密加密方案，不支持其他Bot绑定)
 
 > /pgr b19
 
@@ -298,6 +300,14 @@ Ep:
 > /pgr roll [19-40]
 
 返回你的 Phigros 成绩数据 (B19向下查询，最多支持到40)
+
+> /pgr search
+
+查歌，简单查一下xwx
+
+> /pgr random
+
+随机一首歌，看看能不能抽到魔王曲(?
 
 ## 简单一些的Tools
 
@@ -635,8 +645,6 @@ Ep:
 - Nonebot-plugin-remake
 
 - Nonebot-plugin-weather-lite
-
-- Nonebot-plugin-what2eat
 
 - Nonebot-plugin-wordcloud
 
