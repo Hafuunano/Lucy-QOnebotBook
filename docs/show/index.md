@@ -275,6 +275,15 @@ Ep:
 
 * 随机maimai一首歌（挨打
 
+> !mai bind
+
+* 绑定你的 maimai id
+** 此功能需要在 [HiMoYo Maimai Auth](https://mai.lemonkoi.one)上获取**
+
+> !mai unlock
+
+* 某种神秘功能~
+
 ### Chunithm * 可能需要一个UI设计 (
 
 > !chun
