@@ -193,7 +193,7 @@ tip: 如: 娶@Lucy Hafuko
 
 模仿 [Telegram Bot Slash](https://github.com/Rongronggg9/SlashBot) 的 功能
 
-* 此功能需要管理员  /启用slash  才可使用
+* 此功能需要管理员  /启用slash 才可使用
 
 Regex Patterns,没有特定需求，**会和其他以 / 为初始头的Bot冲突**:
 
@@ -278,7 +278,7 @@ Ep:
 > !mai bind
 
 * 绑定你的 maimai id
-** 此功能需要在 [HiMoYo Maimai Auth](https://mai.lemonkoi.one)上获取**
+**此功能需要在 [HiMoYo Maimai Auth](https://mai.lemonkoi.one)上获取**
 
 > !mai unlock
 
