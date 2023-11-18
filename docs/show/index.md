@@ -298,7 +298,7 @@ Ep:
 
 > /pgr bind xxx
 
-**此功能需要在 [Phigros Bind Site](https://pgr.impart.icu) 上获得绑定码**
+**此功能需要在 [Phigros Bind Site](https://phi.lemonkoi.one) 上获得绑定码**
 
 > * Session 具有控制您账户的权限！未加密的情况下请不要在公共部分绑定！(Lucy为私密加密方案，不支持其他Bot绑定)
 
