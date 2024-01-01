@@ -7,16 +7,8 @@ description: Hi! NekoPachi!
 
 
 
-![](https://img.shields.io/badge/HiMoYo-Lucy-aqua)   
-
-  ![](https://img.shields.io/badge/LICENSE-GPL3.0-brightgreen)  
-
- ![]() 
- 
-[![Server](https://img.shields.io/badge/Server-MossFTP_VPS-pink)](https://www.mossfrp.top)
-
- ![](https://img.shields.io/badge/FrameWork-OneBot-blue)
-
+![](https://img.shields.io/badge/HiMoYo-Lucy-aqua)   ![](https://img.shields.io/badge/LICENSE-AGPL3.0-brightgreen)  [![Server](https://img.shields.io/badge/Server-MossFTP_VPS-pink)](https://www.mossfrp.top)
+![](https://img.shields.io/badge/FrameWork-OneBot-blue)
 [![CodeFactor](https://www.codefactor.io/repository/github/moyoez/lucy_zerobot/badge/dev)](https://www.codefactor.io/repository/github/moyoez/lucy_zerobot/overview/dev)
 
 Hi! ~这是一份关于 Lucy 的说明书
