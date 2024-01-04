@@ -269,7 +269,16 @@ Ep:
 
 [Mai Plate Default Index](/mai_plate)
 
+> 如果需要删除 请使用 !mai default plate 
+> 即后面打一个空格即可
+
 * 自定义图片优先度高，如果设置了自定义图片则需要优先关闭.
+
+> !mai switch
+
+切换查分源 查分源默认为 [水鱼DivingFish](https://www.diving-fish.com/maimaidx/prober/) 可切换到 [Lxns Maimai查分器](https://maimai.lxns.net/)
+
+> 相对来说，Lxns maimai查分器上传更快 更新支持更多x
 
 > mai一首
 
