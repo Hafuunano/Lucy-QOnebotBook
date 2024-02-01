@@ -251,6 +251,10 @@ Ep:
 
 查询您的 MaiMai B50 并且渲染
 
+> !b40
+
+查询您的b40 ()
+
 > !mai plate xxx | !b50 plate xxx 
 
 自定义您的 MaiMai 称号 ，支持使用 / 的命令初始头
@@ -292,6 +296,22 @@ Ep:
 > !mai unlock
 
 * 某种神秘功能~
+
+> !mai update
+
+* 通过魔法在线更新你的 Maimai b50 到水鱼查分器，使用前需绑定 UserID + 水鱼上传 Token
+
+> !mai tokenbind <token>
+
+* 绑定你的水鱼 Token
+
+> !mai region
+
+* 查询你的出勤记录，需要绑定UserID
+
+> !mai status | 网咋样
+
+* 检查 mai 的网络情况
 
 ### Chunithm * 可能需要一个UI设计 (
 
