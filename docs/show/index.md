@@ -36,7 +36,6 @@ Lucy酱
 
 > - 不保证100%回复
 
-
 #### Chat (disabled)
 
 - 默认切换至禁用 可使用 /启用 chan 打开
@@ -173,7 +172,7 @@ tip: 如: 娶@Lucy Hafuko
 
 当数据库存在相同名字的时候 最新的名字会把相同的名字覆盖掉
 
->* 骗@某人    (对方已经娶了)
+>* 骗@某人 (对方已经娶了)
 
 >* @Lucy 离婚
 
@@ -255,13 +254,17 @@ Ep:
 
 查询您的b40 ()
 
+> !mai refer (userName)
+
+查询指定用户的 B50 (仅支持水鱼)
+
 > !mai plate xxx | !b50 plate xxx 
 
 自定义您的 MaiMai 称号 ，支持使用 / 的命令初始头
 
 > !mai upload | !b50 upload
 
-上传您的maimai 封面图
+上传您的 maimai 封面图
 
 > !mai remove | !b50 remove
 
@@ -284,9 +287,9 @@ Ep:
 
 > 相对来说，Lxns maimai查分器上传更快 更新支持更多x
 
-> mai一首
+> !mai query [绿黄红紫白|dx标] [别名|id+(Songid)]
 
-* 随机maimai一首歌（挨打
+查询您此首歌的游戏数据
 
 > !mai bind
 
@@ -295,7 +298,7 @@ Ep:
 
 > !mai unlock
 
-* 某种神秘功能~
+* 15分 加速器~ (x 
 
 > !mai update
 
@@ -439,7 +442,7 @@ Ep:
 
 > !本月群话痨排行榜
 
-**以上都基于Lucy存在且未被封号 在2023年1月31日之后的信息为准**
+**以上都基于Lucy存在且未被封号 在2024年1月31日之后的信息为准**
 
 ### ChatGPT
 

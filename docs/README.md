@@ -25,7 +25,7 @@ Lucy 的基础人设 : [Link](https://lemonkoi.one/archives/14/)
 
 **Made By MoeMagicMango with ❤**
 
-**Copyright © 2021-2023 FloatTech. All Rights Reserved.**
+**Copyright © 2021-2024 FloatTech. All Rights Reserved.**
 
 [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh\_CN.md)
 
@@ -35,4 +35,4 @@ Lucy 的基础人设 : [Link](https://lemonkoi.one/archives/14/)
 
 Thanks! 感谢支持
 
-![](https://cdn.himoyo.cn/supoorter/Screenshot%202023-06-04%20220723.png)
+![](https://base.lemonkoi.one/supoorter/afdian.jpeg)
