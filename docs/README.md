@@ -3,13 +3,13 @@ lang: zh-CN
 title: 🌈Welcome~ \_(:з」∠)_
 description: Hi! NekoPachi!
 ---
-![](https://cdn.himoyo.cn/img_service/{ED475BD2-252D-57C7-2E87-FD34559A4985}.png)
+![](https://base.lemonkoi.one/img_service/{ED475BD2-252D-57C7-2E87-FD34559A4985}.png)
 
 
 
 ![](https://img.shields.io/badge/HiMoYo-Lucy-aqua)   ![](https://img.shields.io/badge/LICENSE-AGPL3.0-brightgreen)  [![Server](https://img.shields.io/badge/Server-MossFTP_VPS-pink)](https://www.mossfrp.top)
 ![](https://img.shields.io/badge/FrameWork-OneBot-blue)
-[![CodeFactor](https://www.codefactor.io/repository/github/moyoez/lucy_zerobot/badge/dev)](https://www.codefactor.io/repository/github/moyoez/lucy_zerobot/overview/dev)
+[![CodeFactor](https://www.codefactor.io/repository/github/moyoez/Lucy-Qonebot/badge/dev)](https://www.codefactor.io/repository/github/moyoez/Lucy-Qonebot/overview/dev)
 
 Hi! ~这是一份关于 Lucy 的说明书
 
