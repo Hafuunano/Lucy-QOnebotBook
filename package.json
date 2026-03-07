@@ -70,7 +70,7 @@
     "human-signals": "^2.1.0",
     "ieee754": "^1.2.1",
     "ignore": "^5.2.0",
-    "immutable": "^4.1.0",
+    "immutable": "^4.3.8",
     "inherits": "^2.0.4",
     "is-binary-path": "^2.1.0",
     "is-core-module": "^2.9.0",
